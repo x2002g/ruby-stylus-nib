@@ -1,4 +1,3 @@
-ruby-stylus-nib
-===============
+# Ruby Stylus Source
 
-ruby-stylus-nib
+https://github.com/LearnBoost/stylus
